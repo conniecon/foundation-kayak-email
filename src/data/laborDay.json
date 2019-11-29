@@ -1,0 +1,23 @@
+{
+  "title": "40% off on labor day",
+  "products": [
+    {
+      "title": "Yeezy 720 Boost",
+      "price": 400,
+      "product_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725",
+      "image_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725"
+    },
+    {
+      "title": "Air Jordons 13",
+      "price": 200,
+      "product_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725",
+      "image_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725"
+    },
+    {
+      "title": "Lebrons 8",
+      "price": 165,
+      "product_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725",
+      "image_url": "https://stockx.imgix.net/adidas-Yeezy-Boost-700-Inertia.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&q=90&dpr=2&trim=color&updated_at=1550806725"
+    }
+  ]
+}
